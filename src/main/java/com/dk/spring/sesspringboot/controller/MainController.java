@@ -20,7 +20,7 @@ public class MainController {
 
         //send Email using ATTA from email
         SESProcessor.getInstance().add(new AmazonEmail(
-        "hi@attacomsian.com",
+        "dxdy@gmail.com",
         SESFrom.DAVID,
         "Hey David",
         "Another spam"));
