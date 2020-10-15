@@ -1,0 +1,13 @@
+package com.dk.spring.sesspringboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SesspringbootApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SesspringbootApplication.class, args);
+	}
+
+}
